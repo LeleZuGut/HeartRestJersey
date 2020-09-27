@@ -33,10 +33,6 @@ public class HeartRestJersey {
                 break;
             }
         }
-      
-        
-        
-        
        
         System.exit(0); 
     }
